@@ -205,10 +205,7 @@
     :root {
       --bg-url: url(./assets/bg-desktop.png);
     }
-  
-    .light {
-      --bg-url: url(./assets/bg-desktop-light.png);
-    }
+
   }
   
   /* animation */
